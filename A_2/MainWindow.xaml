@@ -1,0 +1,34 @@
+﻿<Window x:Class="A_2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto" />
+            <RowDefinition Height="auto"/>
+            <RowDefinition />
+        </Grid.RowDefinitions>
+        <GroupBox Header="扫描的IP地址范围：" Grid.Row="0">
+            <StackPanel  Orientation="Horizontal">
+                <Label>IP地址前缀：</Label>
+                <TextBox x:Name="ipPre" Width="80" LostFocus="ip_LostFocus" >172.20.16.</TextBox>
+                <Label>起始值：</Label>
+                    <TextBox x:Name="ipSta" Width="30" LostFocus="ip_LostFocus">70</TextBox>
+                <Label>终止值：</Label>
+                    <TextBox x:Name="ipFin" Width="30" LostFocus="ip_LostFocus">80</TextBox>
+                <Button x:Name="GOGOGO" Click="GOGOGO_Click">开始扫描</Button>
+            </StackPanel>
+        </GroupBox>
+        <Grid Grid.Row="1" Background="Red">
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <Label x:Name="WarningWrongIP" Foreground="White" Visibility="Collapsed">IP地址有误！</Label>
+                <Label x:Name="WarningWrongIPSta" Foreground="White" Visibility="Collapsed">起始值有误！</Label>
+                <Label x:Name="WarningWrongIPFin" Foreground="White" Visibility="Collapsed">结束值有误！</Label>
+            </StackPanel>
+        </Grid>
+        
+        <GroupBox Header="扫描结果" Grid.Row="2">
+            <ListBox x:Name="resultShower"></ListBox>
+        </GroupBox>
+    </Grid>
+</Window>

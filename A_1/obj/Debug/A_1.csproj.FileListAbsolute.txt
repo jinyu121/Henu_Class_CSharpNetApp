@@ -1,0 +1,30 @@
+c:\users\郝昱\documents\visual studio 2013\Projects\CSharpNetApp\A_1\obj\Debug\MainWindow.g.cs
+c:\users\郝昱\documents\visual studio 2013\Projects\CSharpNetApp\A_1\obj\Debug\App.g.cs
+c:\users\郝昱\documents\visual studio 2013\Projects\CSharpNetApp\A_1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+c:\users\郝昱\documents\visual studio 2013\Projects\CSharpNetApp\A_1\obj\Debug\A_1_MarkupCompile.cache
+c:\users\郝昱\documents\visual studio 2013\Projects\CSharpNetApp\A_1\obj\Debug\A_1_MarkupCompile.lref
+c:\users\郝昱\documents\visual studio 2013\Projects\CSharpNetApp\A_1\obj\Debug\A_1.exe
+c:\users\郝昱\documents\visual studio 2013\Projects\CSharpNetApp\A_1\obj\Debug\A_1.pdb
+c:\users\郝昱\documents\visual studio 2013\Projects\CSharpNetApp\A_1\bin\Debug\A_1.exe.config
+c:\users\郝昱\documents\visual studio 2013\Projects\CSharpNetApp\A_1\bin\Debug\A_1.exe
+c:\users\郝昱\documents\visual studio 2013\Projects\CSharpNetApp\A_1\bin\Debug\A_1.pdb
+c:\users\郝昱\documents\visual studio 2013\Projects\CSharpNetApp\A_1\obj\Debug\MainWindow.baml
+c:\users\郝昱\documents\visual studio 2013\Projects\CSharpNetApp\A_1\obj\Debug\A_1.g.resources
+c:\users\郝昱\documents\visual studio 2013\Projects\CSharpNetApp\A_1\obj\Debug\A_1.Properties.Resources.resources
+c:\users\郝昱\documents\visual studio 2013\Projects\CSharpNetApp\A_1\obj\Debug\A_1.csproj.GenerateResource.Cache
+c:\users\郝昱\documents\visual studio 2013\Projects\CSharpNetApp\A_1\obj\Debug\A_1.csprojResolveAssemblyReference.cache
+E:\CSharpNet\A_1\bin\Debug\A_1.exe.config
+E:\CSharpNet\A_1\obj\Debug\A_1.exe
+E:\CSharpNet\A_1\obj\Debug\A_1.pdb
+E:\CSharpNet\A_1\bin\Debug\A_1.exe
+E:\CSharpNet\A_1\bin\Debug\A_1.pdb
+E:\CSharpNet\A_1\obj\Debug\A_1.csprojResolveAssemblyReference.cache
+E:\CSharpNet\A_1\obj\Debug\MainWindow.g.cs
+E:\CSharpNet\A_1\obj\Debug\App.g.cs
+E:\CSharpNet\A_1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\CSharpNet\A_1\obj\Debug\A_1_MarkupCompile.cache
+E:\CSharpNet\A_1\obj\Debug\A_1_MarkupCompile.lref
+E:\CSharpNet\A_1\obj\Debug\MainWindow.baml
+E:\CSharpNet\A_1\obj\Debug\A_1.g.resources
+E:\CSharpNet\A_1\obj\Debug\A_1.Properties.Resources.resources
+E:\CSharpNet\A_1\obj\Debug\A_1.csproj.GenerateResource.Cache

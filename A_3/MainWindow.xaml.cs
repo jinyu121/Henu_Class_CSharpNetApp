@@ -27,8 +27,8 @@ namespace WpfApplication1
             InitializeComponent();
             StringBuilder sb = new StringBuilder();
             ipt.Items.Add("2014 11 11");
-            //ipt.Items.Add("2000 130 3000");
-            //ipt.Items.Add("20000 1300 30000");
+            ipt.Items.Add("4134 3 1390");
+            ipt.Items.Add("4134 313 90");
             ipt.Items.Add("413 431 390");
         }
 
@@ -40,10 +40,21 @@ namespace WpfApplication1
                 try
                 {
                     pro p = new pro(int.Parse(str[0]), int.Parse(str[1]), int.Parse(str[2]), resultShower);
-                    // 注意：在这里使用Parallel.Invoke() 会导致界面死掉。原因未知。
-                    // Parallel.Invoke(() => { p.process(); });
-                    Task t = new Task(() => { p.process(); });
-                    t.Start();
+                    // 分别尝试异步和并行
+                    Random r = new Random();
+                    if (r.Next(2) == 0)
+                    {
+                        // 并行
+                        // 注意：以下代码解决使用Parallel.Invoke() 导致界面死掉的问题
+                        ParallelOptions op = new ParallelOptions();
+                        op.TaskScheduler = TaskScheduler.FromCurrentSynchronizationContext();
+                        Parallel.Invoke(op, () => { p.process(); });
+                    }
+                    else
+                    {
+                        // 异步
+                        new Task(() => { p.process(); }).Start();
+                    }
                 }
                 catch { }
             }
@@ -107,9 +118,9 @@ namespace WpfApplication1
             // 完成了
             lv.Dispatcher.Invoke(() =>
             {
-                StringBuilder ss=new StringBuilder();
+                StringBuilder ss = new StringBuilder();
                 ss.AppendLine(String.Format("计算用时：{0}毫秒：", iWatch.ElapsedMilliseconds));
-                ss.AppendLine(String.Format("\t数组 1 大小：{0}*{1}",a,b));
+                ss.AppendLine(String.Format("\t数组 1 大小：{0}*{1}", a, b));
                 ss.AppendLine(String.Format("\t数组 2 大小：{0}*{1}", b, c));
                 ss.AppendLine(String.Format("\t数组 3 大小：{0}*{1}", a, c));
                 ss.AppendLine(String.Format("\t最大并行度：{0}", op.MaxDegreeOfParallelism));

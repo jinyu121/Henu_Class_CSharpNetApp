@@ -1,0 +1,10 @@
+E:\A_4\A_4\A_4\bin\A_4.dll
+E:\A_4\A_4\A_4\bin\A_4.pdb
+E:\A_4\A_4\A_4\obj\Debug\A_4.dll
+E:\A_4\A_4\A_4\obj\Debug\A_4.pdb
+C:\Users\YuHao\Desktop\A_4\A_4\A_4\bin\A_4.dll.config
+C:\Users\YuHao\Desktop\A_4\A_4\A_4\bin\A_4.dll
+C:\Users\YuHao\Desktop\A_4\A_4\A_4\bin\A_4.pdb
+C:\Users\YuHao\Desktop\A_4\A_4\A_4\obj\Debug\A_4.dll
+C:\Users\YuHao\Desktop\A_4\A_4\A_4\obj\Debug\A_4.pdb
+C:\Users\YuHao\Desktop\A_4\A_4\A_4\obj\Debug\A_4.csprojResolveAssemblyReference.cache

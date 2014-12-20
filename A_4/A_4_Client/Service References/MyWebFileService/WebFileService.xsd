@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:tns="http://schemas.datacontract.org/2004/07/A_4" elementFormDefault="qualified" targetNamespace="http://schemas.datacontract.org/2004/07/A_4" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="ArrayOfWebFile">
+    <xs:sequence>
+      <xs:element minOccurs="0" maxOccurs="unbounded" name="WebFile" nillable="true" type="tns:WebFile" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="ArrayOfWebFile" nillable="true" type="tns:ArrayOfWebFile" />
+  <xs:complexType name="WebFile">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="fileName" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="filePath" nillable="true" type="xs:string" />
+      <xs:element minOccurs="0" name="fileSize" type="xs:long" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="WebFile" nillable="true" type="tns:WebFile" />
+</xs:schema>

@@ -1,0 +1,30 @@
+c:\users\yuhao\documents\visual studio 2013\Projects\A_5_Client\A_5_Client\bin\Debug\A_5_Client.exe.config
+c:\users\yuhao\documents\visual studio 2013\Projects\A_5_Client\A_5_Client\bin\Debug\A_5_Client.exe
+c:\users\yuhao\documents\visual studio 2013\Projects\A_5_Client\A_5_Client\bin\Debug\A_5_Client.pdb
+c:\users\yuhao\documents\visual studio 2013\Projects\A_5_Client\A_5_Client\obj\Debug\A_5_Client.csprojResolveAssemblyReference.cache
+c:\users\yuhao\documents\visual studio 2013\Projects\A_5_Client\A_5_Client\obj\Debug\MainWindow.baml
+c:\users\yuhao\documents\visual studio 2013\Projects\A_5_Client\A_5_Client\obj\Debug\StartWindow.baml
+c:\users\yuhao\documents\visual studio 2013\Projects\A_5_Client\A_5_Client\obj\Debug\MainWindow.g.cs
+c:\users\yuhao\documents\visual studio 2013\Projects\A_5_Client\A_5_Client\obj\Debug\StartWindow.g.cs
+c:\users\yuhao\documents\visual studio 2013\Projects\A_5_Client\A_5_Client\obj\Debug\App.g.cs
+c:\users\yuhao\documents\visual studio 2013\Projects\A_5_Client\A_5_Client\obj\Debug\A_5_Client_MarkupCompile.cache
+c:\users\yuhao\documents\visual studio 2013\Projects\A_5_Client\A_5_Client\obj\Debug\A_5_Client.g.resources
+c:\users\yuhao\documents\visual studio 2013\Projects\A_5_Client\A_5_Client\obj\Debug\A_5_Client.Properties.Resources.resources
+c:\users\yuhao\documents\visual studio 2013\Projects\A_5_Client\A_5_Client\obj\Debug\A_5_Client.csproj.GenerateResource.Cache
+c:\users\yuhao\documents\visual studio 2013\Projects\A_5_Client\A_5_Client\obj\Debug\A_5_Client.exe
+c:\users\yuhao\documents\visual studio 2013\Projects\A_5_Client\A_5_Client\obj\Debug\A_5_Client.pdb
+C:\Users\admin\Desktop\Projects\A_5_Client\A_5_Client\bin\Debug\A_5_Client.exe.config
+C:\Users\admin\Desktop\Projects\A_5_Client\A_5_Client\obj\Debug\A_5_Client.exe
+C:\Users\admin\Desktop\Projects\A_5_Client\A_5_Client\obj\Debug\A_5_Client.pdb
+C:\Users\admin\Desktop\Projects\A_5_Client\A_5_Client\bin\Debug\A_5_Client.exe
+C:\Users\admin\Desktop\Projects\A_5_Client\A_5_Client\bin\Debug\A_5_Client.pdb
+C:\Users\admin\Desktop\Projects\A_5_Client\A_5_Client\obj\Debug\A_5_Client.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Projects\A_5_Client\A_5_Client\obj\Debug\MainWindow.baml
+C:\Users\admin\Desktop\Projects\A_5_Client\A_5_Client\obj\Debug\StartWindow.baml
+C:\Users\admin\Desktop\Projects\A_5_Client\A_5_Client\obj\Debug\MainWindow.g.cs
+C:\Users\admin\Desktop\Projects\A_5_Client\A_5_Client\obj\Debug\StartWindow.g.cs
+C:\Users\admin\Desktop\Projects\A_5_Client\A_5_Client\obj\Debug\App.g.cs
+C:\Users\admin\Desktop\Projects\A_5_Client\A_5_Client\obj\Debug\A_5_Client_MarkupCompile.cache
+C:\Users\admin\Desktop\Projects\A_5_Client\A_5_Client\obj\Debug\A_5_Client.g.resources
+C:\Users\admin\Desktop\Projects\A_5_Client\A_5_Client\obj\Debug\A_5_Client.Properties.Resources.resources
+C:\Users\admin\Desktop\Projects\A_5_Client\A_5_Client\obj\Debug\A_5_Client.csproj.GenerateResource.Cache

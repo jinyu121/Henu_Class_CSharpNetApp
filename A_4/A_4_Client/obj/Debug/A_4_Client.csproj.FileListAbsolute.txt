@@ -24,3 +24,16 @@ C:\Users\YuHao\Desktop\A_4\A_4\A_4_Client\obj\Debug\A_4_Client.Properties.Resour
 C:\Users\YuHao\Desktop\A_4\A_4\A_4_Client\obj\Debug\A_4_Client.csproj.GenerateResource.Cache
 C:\Users\YuHao\Desktop\A_4\A_4\A_4_Client\bin\Debug\A_4_Client.exe
 C:\Users\YuHao\Desktop\A_4\A_4\A_4_Client\bin\Debug\A_4_Client.pdb
+C:\Users\admin\Desktop\新建文件夹\Henu_Class_CSharpNetApp\A_4\A_4_Client\bin\Debug\A_4_Client.exe.config
+C:\Users\admin\Desktop\新建文件夹\Henu_Class_CSharpNetApp\A_4\A_4_Client\bin\Debug\A_4_Client.exe
+C:\Users\admin\Desktop\新建文件夹\Henu_Class_CSharpNetApp\A_4\A_4_Client\bin\Debug\A_4_Client.pdb
+C:\Users\admin\Desktop\新建文件夹\Henu_Class_CSharpNetApp\A_4\A_4_Client\obj\Debug\A_4_Client.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\新建文件夹\Henu_Class_CSharpNetApp\A_4\A_4_Client\obj\Debug\MainWindow.baml
+C:\Users\admin\Desktop\新建文件夹\Henu_Class_CSharpNetApp\A_4\A_4_Client\obj\Debug\MainWindow.g.cs
+C:\Users\admin\Desktop\新建文件夹\Henu_Class_CSharpNetApp\A_4\A_4_Client\obj\Debug\App.g.cs
+C:\Users\admin\Desktop\新建文件夹\Henu_Class_CSharpNetApp\A_4\A_4_Client\obj\Debug\A_4_Client_MarkupCompile.cache
+C:\Users\admin\Desktop\新建文件夹\Henu_Class_CSharpNetApp\A_4\A_4_Client\obj\Debug\A_4_Client.g.resources
+C:\Users\admin\Desktop\新建文件夹\Henu_Class_CSharpNetApp\A_4\A_4_Client\obj\Debug\A_4_Client.Properties.Resources.resources
+C:\Users\admin\Desktop\新建文件夹\Henu_Class_CSharpNetApp\A_4\A_4_Client\obj\Debug\A_4_Client.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\新建文件夹\Henu_Class_CSharpNetApp\A_4\A_4_Client\obj\Debug\A_4_Client.exe
+C:\Users\admin\Desktop\新建文件夹\Henu_Class_CSharpNetApp\A_4\A_4_Client\obj\Debug\A_4_Client.pdb

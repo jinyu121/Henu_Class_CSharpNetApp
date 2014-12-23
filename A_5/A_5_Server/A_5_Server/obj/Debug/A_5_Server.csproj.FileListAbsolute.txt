@@ -1,0 +1,27 @@
+c:\users\yuhao\documents\visual studio 2013\Projects\A_5_Server\A_5_Server\bin\Debug\A_5_Server.exe.config
+C:\Users\admin\Desktop\Projects\A_5_Server\A_5_Server\bin\Debug\A_5_Server.exe.config
+C:\Users\admin\Desktop\Projects\A_5_Server\A_5_Server\bin\Debug\A_5_Server.exe
+C:\Users\admin\Desktop\Projects\A_5_Server\A_5_Server\bin\Debug\A_5_Server.pdb
+C:\Users\admin\Desktop\Projects\A_5_Server\A_5_Server\obj\Debug\A_5_Server.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Projects\A_5_Server\A_5_Server\obj\Debug\MainWindow.baml
+C:\Users\admin\Desktop\Projects\A_5_Server\A_5_Server\obj\Debug\MainWindow.g.cs
+C:\Users\admin\Desktop\Projects\A_5_Server\A_5_Server\obj\Debug\App.g.cs
+C:\Users\admin\Desktop\Projects\A_5_Server\A_5_Server\obj\Debug\A_5_Server_MarkupCompile.cache
+C:\Users\admin\Desktop\Projects\A_5_Server\A_5_Server\obj\Debug\A_5_Server.g.resources
+C:\Users\admin\Desktop\Projects\A_5_Server\A_5_Server\obj\Debug\A_5_Server.Properties.Resources.resources
+C:\Users\admin\Desktop\Projects\A_5_Server\A_5_Server\obj\Debug\A_5_Server.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\Projects\A_5_Server\A_5_Server\obj\Debug\A_5_Server.exe
+C:\Users\admin\Desktop\Projects\A_5_Server\A_5_Server\obj\Debug\A_5_Server.pdb
+C:\Users\admin\Desktop\新建文件夹\Henu_Class_CSharpNetApp\A_5\A_5_Server\A_5_Server\bin\Debug\A_5_Server.exe.config
+C:\Users\admin\Desktop\新建文件夹\Henu_Class_CSharpNetApp\A_5\A_5_Server\A_5_Server\bin\Debug\A_5_Server.exe
+C:\Users\admin\Desktop\新建文件夹\Henu_Class_CSharpNetApp\A_5\A_5_Server\A_5_Server\bin\Debug\A_5_Server.pdb
+C:\Users\admin\Desktop\新建文件夹\Henu_Class_CSharpNetApp\A_5\A_5_Server\A_5_Server\obj\Debug\A_5_Server.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\新建文件夹\Henu_Class_CSharpNetApp\A_5\A_5_Server\A_5_Server\obj\Debug\MainWindow.baml
+C:\Users\admin\Desktop\新建文件夹\Henu_Class_CSharpNetApp\A_5\A_5_Server\A_5_Server\obj\Debug\MainWindow.g.cs
+C:\Users\admin\Desktop\新建文件夹\Henu_Class_CSharpNetApp\A_5\A_5_Server\A_5_Server\obj\Debug\App.g.cs
+C:\Users\admin\Desktop\新建文件夹\Henu_Class_CSharpNetApp\A_5\A_5_Server\A_5_Server\obj\Debug\A_5_Server_MarkupCompile.cache
+C:\Users\admin\Desktop\新建文件夹\Henu_Class_CSharpNetApp\A_5\A_5_Server\A_5_Server\obj\Debug\A_5_Server.g.resources
+C:\Users\admin\Desktop\新建文件夹\Henu_Class_CSharpNetApp\A_5\A_5_Server\A_5_Server\obj\Debug\A_5_Server.Properties.Resources.resources
+C:\Users\admin\Desktop\新建文件夹\Henu_Class_CSharpNetApp\A_5\A_5_Server\A_5_Server\obj\Debug\A_5_Server.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\新建文件夹\Henu_Class_CSharpNetApp\A_5\A_5_Server\A_5_Server\obj\Debug\A_5_Server.exe
+C:\Users\admin\Desktop\新建文件夹\Henu_Class_CSharpNetApp\A_5\A_5_Server\A_5_Server\obj\Debug\A_5_Server.pdb

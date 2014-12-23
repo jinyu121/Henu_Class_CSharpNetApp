@@ -8,3 +8,8 @@ C:\Users\YuHao\Desktop\A_4\A_4\A_4\bin\A_4.pdb
 C:\Users\YuHao\Desktop\A_4\A_4\A_4\obj\Debug\A_4.dll
 C:\Users\YuHao\Desktop\A_4\A_4\A_4\obj\Debug\A_4.pdb
 C:\Users\YuHao\Desktop\A_4\A_4\A_4\obj\Debug\A_4.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\新建文件夹\Henu_Class_CSharpNetApp\A_4\A_4\bin\A_4.dll
+C:\Users\admin\Desktop\新建文件夹\Henu_Class_CSharpNetApp\A_4\A_4\bin\A_4.pdb
+C:\Users\admin\Desktop\新建文件夹\Henu_Class_CSharpNetApp\A_4\A_4\obj\Debug\A_4.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\新建文件夹\Henu_Class_CSharpNetApp\A_4\A_4\obj\Debug\A_4.dll
+C:\Users\admin\Desktop\新建文件夹\Henu_Class_CSharpNetApp\A_4\A_4\obj\Debug\A_4.pdb

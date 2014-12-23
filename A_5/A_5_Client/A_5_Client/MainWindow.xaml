@@ -1,0 +1,29 @@
+﻿<Window x:Class="ChatClient.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="400" Width="600">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="auto" />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+        <StackPanel x:Name="loginBar" Orientation="Horizontal">
+            <Label >用户名</Label>
+            <TextBox x:Name="inputUsername" Width="100"></TextBox>
+            <Button x:Name="btnLogin" Click="BtnLogin_Click">登录</Button>
+        </StackPanel>
+        <DockPanel x:Name="mainArea" Grid.Row="1">
+            <DockPanel>
+                <Label DockPanel.Dock="Top">在线列表</Label>
+                <ListView x:Name="onlineList" DockPanel.Dock="Top"/>
+            </DockPanel>
+            <DockPanel>
+                <DockPanel DockPanel.Dock="Bottom">
+                    <Button x:Name="sendButton" Click="sendButton_Click" DockPanel.Dock="Right">发送</Button>
+                    <TextBox x:Name="inputArea" DockPanel.Dock="Left"/>
+                </DockPanel>
+                <ListBox x:Name="chatShower" DockPanel.Dock="Top" />
+            </DockPanel>
+        </DockPanel>
+    </Grid>
+</Window>
